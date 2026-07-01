@@ -1,25 +1,28 @@
 # Bike Buyers Analysis Project 📊
 
-## Overview
-This project analyzes customer behavior using the Bike Buyers dataset.  
-It focuses on understanding how factors like income, age, gender, and commute distance affect bike purchasing decisions.
+## 🔍 Overview
+This project analyzes customer purchasing behavior using the Bike Buyers dataset.  
+It focuses on identifying key factors that influence bike purchase decisions such as income, age, gender, and commute distance.
 
-Two dashboards were created:
+Two dashboards were developed:
 - Excel Dashboard
 - Power BI Dashboard
 
 ---
 
 ## 🎯 Objective
-To identify key factors influencing customer purchase decisions and present insights using data visualization tools.
+To transform raw customer data into meaningful business insights using data visualization tools.
 
 ---
 
 ## 📁 Project Structure
-- excel-dashboard/
-  - Excel dashboard with pivot tables, charts, and slicers
-- power-bi-dashboard/
+- *excel-dashboard/*
+  - Excel dashboard with Pivot Tables, Charts, and Slicers
+  - Screenshot previews included
+
+- *power-bi-dashboard/*
   - Interactive Power BI dashboard with filters and visuals
+  - Screenshot previews included
 
 ---
 
@@ -31,27 +34,27 @@ To identify key factors influencing customer purchase decisions and present insi
 ---
 
 ## 📊 Key Insights
-- Higher income groups show different purchase behavior
-- Age is a strong factor in bike purchases
-- Commute distance impacts buying decisions
-- Gender-based differences observed in purchase patterns
+- Income level strongly influences purchase decisions  
+- Middle-aged customers are more likely to purchase bikes  
+- Commute distance impacts buying behavior  
+- Gender distribution shows clear patterns in purchases  
 
 ---
 
 ## 📈 Skills Demonstrated
-- Data Cleaning
-- Data Visualization
-- Dashboard Design
-- Business Insight Generation
+- Data Cleaning  
+- Data Analysis  
+- Dashboard Design  
+- Business Insight Generation  
 
 ---
 
-## 🚀 Outcome
-This project demonstrates the ability to transform raw data into meaningful business insights using Excel and Power BI.
+## 🚀 How to View
+- Open *excel-dashboard* folder for Excel analysis  
+- Open *power-bi-dashboard* folder for Power BI dashboard  
 
 ---
 
 ## 👨‍💻 Author
 Kanika D  
-Aspiring Data Analyst  
-Skilled in Excel, Power BI, and Data Visualization
+Aspiring Data Analyst | Excel | Power BI | Data Visualization
