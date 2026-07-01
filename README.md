@@ -37,7 +37,8 @@ To transform raw customer data into meaningful business insights using data visu
 - Income level strongly influences purchase decisions  
 - Middle-aged customers are more likely to purchase bikes  
 - Commute distance impacts buying behavior  
-- Gender distribution shows clear patterns in purchases  
+- Gender distribution shows clear patterns in purchases
+- These insights can help marketing teams understand customer behavior and improve targeted campaigns.  
 
 ---
 
